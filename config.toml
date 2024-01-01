@@ -1,0 +1,4 @@
+baseURL = 'http://ollybaysion.github.io/'
+languageCode = 'en-us'
+title = 'Film&Art'
+theme = 'digitalgarden'
