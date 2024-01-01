@@ -1,5 +1,5 @@
 baseURL: "https://ollybaysion.github.io/"
-title: FilmArt
+title: Film&Art
 paginate: 5
 theme: PaperMod
 
@@ -13,22 +13,6 @@ googleAnalytics: UA-123-45
 minify:
   disableXML: true
   minifyOutput: true
-
-defaultContentLanguage: en
-languages:
-  en:
-    contentDir: content/en
-    disabled: false
-    languageCode: en-US
-    languageDirection: ltr
-    languageName: English
-    params:
-      subtitles: HI
-    title: HELLO
-  de:
-    contentDir: content/de
-    disabled: false
-    languageCode: de-DE
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
