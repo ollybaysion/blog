@@ -1,10 +1,10 @@
-baseURL = "http://example.org/"
+baseURL = "http://ollybaysion.github.io/"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
 
 # website title
-title = "My New Hugo Site"
+title = "Film&Art"
 
 # language code ["en", "zh-CN", "fr", "pl", ...]
 languageCode = "en"
@@ -13,8 +13,8 @@ languageName = "English"
 
 # Author config
 [author]
-  name = "xxxx"
-  email = ""
+  name = "ds.kim"
+  email = "ollybaysion@gmail.com"
   link = ""
 
 # Menu config
@@ -46,7 +46,7 @@ languageName = "English"
     name = "Categories"
     url = "/categories/"
     title = ""
-
+    
 # Markup related configuration in Hugo
 [markup]
   # Syntax Highlighting (https://gohugo.io/content-management/syntax-highlighting)
