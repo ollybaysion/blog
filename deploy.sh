@@ -1,6 +1,6 @@
 echo -e "\033[0;32mDeploying updates to Github...\033[0m"
 
-hugo -t digitalgarden
+hugo -t PaperMod
 
 cd public
 git add .
